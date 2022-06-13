@@ -1,0 +1,49 @@
+Qué es Git?
+Git es un software de control de versiones gratis y de código abierto. Fue creado por Linus Torvalds en 2005. Esta herramienta es un sistema de control de versiones que fue inicialmente desarrollado para trabajar con varios desarrolladores en el núcleo de Linux.
+
+Esto significa básicamente que Git es un rastreador de contenido. Así que Git puede ser utilizado para almacenar contenido — y se usa principalmente para almacenar código debido a otras características que proporciona.
+
+Los proyectos de la vida real generalmente tienen múltiples desarrolladores trabajando en paralelo. Así que necesitan un sistema de control de versiones como Git para asegurarse de que no hay conflictos de código entre ellos.
+
+Además, los requerimientos en este tipo de proyectos cambian constantemente. Así que un sistema de control de versiones permite a los desarrolladores revertir y regresar a una versión anterior de su código.
+
+El sistema de ramas en Git permite a los desarrolladores trabajar individualmente en una tarea (Por ejemplo: una rama -> una tarea O una Rama -> un desarrollador). Básicamente, se puede pensar en Git como una aplicación de software pequeña que controla tu código base, si eres un desarrollador.
+
+vcs
+Muestra cómo funciona GitHub
+Repositorios Git
+Si queremos empezar a usar Git, necesitamos saber dónde alojar nuestros repositorios.
+
+Un repositorio (o "Repo" para abreviar) es un proyecto que contiene múltiples archivos. En nuestro caso un repositorio contendrá archivos basados en código.
+
+Hay dos maneras en que puedes alojar tus repositorios. Uno es en línea (en la nube) y la segunda es fuera de línea (auto-instalado en tu servidor).
+
+Hay tres servicios de alojamiento popular de Git: GitHub (propiedad de Microsoft), GitLab (propiedad de GitLab) y BitBucket. Usaremos GitHub como nuestro servicio de alojamiento.
+
+Antes de usar Git debemos saber por qué lo necesitamos.
+Git facilita la contribución a proyectos de código abierto
+Casi todos los proyectos de código abierto utilizan GitHub para gestionar sus proyectos. Usar GitHub es gratis si tu proyecto es de código abierto, e incluye un wiki y un rastreador de problemas que facilita la inclusión de documentación más detallada y recibir retroalimentación sobre tu proyecto.
+
+Si quieres contribuir, simplemente bifurcas (obtienes una copia de) un proyecto, realizas tus cambios, y luego envías un Pull Request al proyecto utilizando la interface web de GitHub. Este Pull Request es tu manera de decirle al proyecto que estás listo para que revisen tus cambios.
+
+Documentación
+Utilizando GitHub, facilitas la obtención de excelente documentación. Su sección de ayuda y las guías tienen artículos para casi cualquier tema relacionado a Git en el que puedas pensar.  
+
+Opciones de Integración
+GitHub puede integrarse con plataformas comunes como Amazon y Google Cloud, con servicios como Code Climate para rastrear tus comentarios y puede resaltar la sintaxis en más de 200 lenguajes de programación diferentes.
+
+Rastrea cambios en tu código a través de versiones
+Cuando varias personas colaboran en un proyecto, es difícil mantener el seguimiento de las revisiones — quién cambió qué, cuándo, y dónde están almacenados esos archivos.
+
+GitHub se ocupa de este problema manteniendo un seguimiento de todos los cambios que se han enviado al repositorio.
+
+Al igual que cuando se usa Microsoft Word o Google Drive, puedes tener un historial de las versiones de tu código, de manera que las versiones previas no se pierden con cada iteración. Es fácil regresar a la versión previa y contribuir a tu trabajo.
+
+Muestra tu trabajo
+¿Eres un desarrollador que desea atraer a reclutadores? GitHub es la mejor herramienta en la que puedes confiar para esto.
+
+Hoy, al buscar nuevos reclutas para sus proyectos, la mayoría de las compañías miran los perfiles de GitHub. Si tu perfil está disponible, tendrás mayores posibilidades de ser reclutado incluso si no eres de una gran universidad o colegio.
+
+Ahora aprenderemos cómo usar Git y GitHub
+Creación de cuenta de GitHub
+Para crear tu cuenta, necesitas ir al sitio web de GitHub y llenar la forma de registro.

@@ -47,3 +47,7 @@ Hoy, al buscar nuevos reclutas para sus proyectos, la mayoría de las compañía
 Ahora aprenderemos cómo usar Git y GitHub
 Creación de cuenta de GitHub
 Para crear tu cuenta, necesitas ir al sitio web de GitHub y llenar la forma de registro.
+
+
+
+última modificación

@@ -1,0 +1,77 @@
+
+
+git config --global --list  
+
+Visualiza la configuración de usuario y mail. 
+
+****************************************************
+
+
+git add .
+
+Con esto añadiremos todos los archivos que aparecían anteriormente 
+para ser guardados. Si queremos añadir un archivo o carpeta en 
+concreto lo podemos hacer mediante.
+
+****************************************************
+
+git add NOMBREDELARCHIVO
+
+
+git config --global user.name "Tu nombre aquí"
+git config --global user.email ejemplo@example.com
+
+
+******************************************************
+
+git commit -m  "xxx"
+
+Guarda los cambios luego de git add .
+
+
+
+******************************************************
+
+git status 
+
+Visualiza los últimos cambios. 
+
+
+*******************************************************
+
+git remote add origin
+https://github.com/flaviaursino/webmaster.git
+
+
+
+Para vincular una carpeta con git hub
+
+
+
+*******************************************************
+git log
+
+para ver todos los commit
+
+********************************************************
+git push
+
+Actualiza el github
+
+********************************************************
+
+git pull
+
+Actualiza el git a partir de lo que hay en github
+
+
+********************************************************
+
+git clone https://github.com/ekersten/webmaster.git
+
+
+Clona en otra carpeta o computadora el contenido de git hub
+
+
+
+

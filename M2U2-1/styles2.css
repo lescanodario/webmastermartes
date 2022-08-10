@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(241, 237, 233);
+
+}
+
+
+.flex-container{
+
+display: flex;
+position: relative;   /*por dafault la posiciÃ³n es static*/
+top: 50px;
+/*left: 550px;*/
+
+border: 1px solid black;
+background: rgb(255, 255, 255);
+
+
+flex-flow: row-reverse nowrap;
+margin: auto; 
+
+display:flex;
+justify-content:center;
+align-items: center;
+
+width: 300px;
+height: 300px;
+
+/*padding: 100px; /*Establece el espacio de relleno por todos los lados de un elemento, espacio entre el contenido del elemento y su borde*/
+/*flex-direction: row;  flex-wrap: wrap;*/
+/*flex-flow: column wrap; /*permite combinar los dos estilos anteriores*/
+/*margin:auto; /*Margen desde el borde izq.*/
+/*align-content: center; /*alinea todo el contenido de la caja al centro */
+/*justify-content: center;   /*justifica todas las cajas en el centro del contenedor*/
+/*justify-content: space-between; /*separa las cajas segÃºn distancia entre ellos "OCUPA TODO EL CONTENEDOR"*/
+/*justify-content: space-evenly;   /* separa la misma distancia entre cajas y contenedor*/
+/*align-items: center;*/
+/*justify-content: start; justificaciÃ³n por defecto*/
+/* justify-content: center; Distribuye todos los items en el centro ya sea en la misma fila o columna*/
+/* align-content: space-between; se distribuyen a la misma distancia*/
+/*align-content: space-around; los items se distribuyen 1/2 item 1/2 + 1/2 item2 ...etc.*/
+/*align-content:space-evenly; distribuye todos los items en forma en forma igual*/
+/* align-content: stretch; agranda todos los items al mismo tamaÃ±o en forma vertical*/
+}
+
+
+/********************************************************************************/
+.caja1{
+     
+    border: 1px solid rgb(32, 32, 32);
+    background-color: rgb(240, 11, 11);
+    color: black;
+    font: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    
+    width:100px;   /*tamaÃ±o de la caja*/
+    height:100px;
+    
+
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+    transition: all .3s ease;
+    /* text-align: center; /*alinea el texto al centro de la caja horizontalmente*/   
+   /*float: left;    /* hace a las cajas flotantes y alinea hacia la derecha*/
+}
+
+
+.caja2{
+
+    border: 1px solid rgb(32, 32, 32);
+    background-color: rgb(4, 93, 188);
+    color: black;
+    font: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    
+    width:100px;   /*tamaÃ±o de la caja*/
+    height:100px;
+
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+.caja3{
+
+    border: 1px solid rgb(32, 32, 32);
+    background-color: rgb(7, 146, 19);
+    color: black;
+    font: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    
+    width:100px;   /*tamaÃ±o de la caja*/
+    height:100px;
+
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    
+}

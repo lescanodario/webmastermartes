@@ -36,8 +36,8 @@ align-content: center; /*alinea todo el contenido de la caja al centro */
 
 justify-content: center;   /*justifica todas las cajas en el centro del contenedor*/
 justify-content: space-between; /*separa las cajas según distancia entre ellos "OCUPA TODO EL CONTENEDOR"*/
-justify-content: space-around;   /* separa la misma distancia entre cajas y contenedor*/
-align-items: center;
+justify-content: space-evenly;   /* separa la misma distancia entre cajas y contenedor*/
+/*align-items: center;*/
 /*justify-content: start; justificación por defecto*/
 /* justify-content: center; Distribuye todos los items en el centro ya sea en la misma fila o columna*/
 /* align-content: space-between; se distribuyen a la misma distancia*/
